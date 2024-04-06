@@ -1,3 +1,3 @@
 First github page.
 
-You can access it : https://github.com/chintu1851/gitpages-sample
+You can access it : https://chintu1851.github.io/gitpages-sample/
